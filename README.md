@@ -43,7 +43,7 @@ Los resultados se guardan como JSON dentro de `SharedPreferences`. El ranking mu
 - El ranking se ordena por puntaje y, ante empate, por mejor desempeno.
 
 ## Como ejecutar
-1. Abrir la carpeta `reaction_app_project` en Android Studio.
+1. Clonar el repositorio y abrirlo en Android Studio.
 2. Esperar sincronizacion de Gradle.
 3. Ejecutar la app en un emulador o dispositivo Android.
 4. Probar partidas con distintas configuraciones.

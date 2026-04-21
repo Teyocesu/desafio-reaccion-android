@@ -3,5 +3,5 @@
 build/
 app/build/
 local.properties
+*.iml
 *.hprof
-java_pid*.hprof
