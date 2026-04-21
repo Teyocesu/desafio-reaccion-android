@@ -1,0 +1,7 @@
+.idea/
+.gradle/
+build/
+app/build/
+local.properties
+*.hprof
+java_pid*.hprof
